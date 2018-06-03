@@ -20,10 +20,12 @@ Alternatively some scripts have been included to streamline this process, these 
 
 1. ./clean.sh
 2. ./build.sh
-3, ./run.sh
+3. ./run.sh
 
+## Result
 Job is to build out the methods in particle_filter.cpp until the simulator output says:
-
 Success! Your particle filter passed!
+
+Please check the ([output](https://github.com/Rasmita1/SDCND_Term2_PF/blob/master/data/Output_Simulator.avi)) recorded video in .\data\Output_Simulator.avi 
 
 
