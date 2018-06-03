@@ -26,4 +26,4 @@ Job is to build out the methods in particle_filter.cpp until the simulator outpu
 
 Success! Your particle filter passed!
 
-[![Watch the video](https://github.com/Rasmita1/SDCND_Term2_PF/blob/master/data/Output_Simulator.avi)]
+
